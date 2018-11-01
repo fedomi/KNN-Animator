@@ -1,0 +1,10 @@
+﻿  KNN.cpp
+c:\users\fdomi\source\repos\knn\knn\knn.cpp(46): warning C4838: la conversión de 'double' en 'const float' requiere una conversión de restricción
+c:\users\fdomi\source\repos\knn\knn\knn.cpp(46): warning C4305: 'inicializando': truncamiento de 'double' a 'const float'
+c:\users\fdomi\source\repos\knn\knn\knn.cpp(100): warning C4018: '<': no coinciden signed/unsigned
+c:\users\fdomi\source\repos\knn\knn\knn.cpp(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\fdomi\source\repos\knn\knn\knn.cpp(234): warning C4018: '<': no coinciden signed/unsigned
+c:\users\fdomi\source\repos\knn\knn\knn.cpp(245): warning C4018: '<': no coinciden signed/unsigned
+c:\users\fdomi\source\repos\knn\knn\knn.cpp(275): warning C4018: '<': no coinciden signed/unsigned
+c:\users\fdomi\source\repos\knn\knn\knn.cpp(276): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  KNN.vcxproj -> C:\Users\fdomi\source\repos\KNN\Debug\KNN.exe
